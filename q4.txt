@@ -1,0 +1,8 @@
+Ans 4
+
+I would adop agile methodology because
+>The customer has frequent and early opportunities to see the work being delivered, and to make decisions and changes throughout the development project.
+>The customer gains a strong sense of ownership by working extensively and directly with the project team throughout the project.
+>If time to market for a specific application is a greater concern than releasing a full feature set at initial launch, Agile can more quickly produce a basic version of working software which can be built upon in successive iterations.
+
+I would collect the information about the most basic services that the application has to provide. Then gradually adding more functionalities based on the prioriies and dependencies.

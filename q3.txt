@@ -1,0 +1,16 @@
+Ans 3
+
+1.Verify that the login screen is having option to enter username and password with submit button and option of forgot password
+2.Verify that user is able to login with valid username and password3.Verify that user is not able to login with invalid username and password
+3.Verify that validation message gets displayed in case user leaves username or password field as blank
+4.Verify that validation message is displayed in case user exceeds the character limit of the user name and password fields
+5.Verify that if the forget passord link works.
+6.Verify if after clicking forget password the email address entered is a valid email or not.
+7.Verify that the password is in encrypted form when entered
+8.Verify that there is limit on the total number of unsuccessful attempts
+9.For security point of view, in case of in correct credentials user is displayed the message like "incorrect username or password" instead of exact message pointing at the field that is incorrect. As message like "incorrect username" will aid hacker in bruteforcing the fields one by one
+10.Verify the timeout of the login session.
+11.Verify if the password can be copy-pasted or not
+12.Verify that once logged in, clicking back button doesn't logout user
+13.Verify if SQL Injection attacks works on login page
+

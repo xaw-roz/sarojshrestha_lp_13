@@ -1,0 +1,16 @@
+/**
+ * Created by rocks on 5/31/2017.
+ */
+public class ConvertToBase7 {
+    public static void main(String[] args) {
+        ConvertToBase7 convertToBase7=new ConvertToBase7();
+        convertToBase7.convert(100);
+    }
+    public void convert(Integer num)
+    {
+        Long x = num.longValue();
+        int baseToConvertTo = 7;
+        System.out.println(Long.toString(x, baseToConvertTo));
+    }
+}
+
